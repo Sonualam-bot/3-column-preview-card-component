@@ -20,8 +20,8 @@
 
 ### Links
 
-- [Repo Link](https://your-solution-url.com)
-- [Live Link](https://your-live-site-url.com)
+- [Repo Link](https://github.com/Sonualam-bot/3-column-preview-card-component)
+- [Live Link](https://3-column-preview-card-component.vercel.app/)
 
 ## My process
 
